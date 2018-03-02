@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{3FC3F658-C828-3156-849C-E485D6E08BC3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_1;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Code\BallChange.cs" />
+     <Compile Include="Assets\Code\BeginTimeScript.cs" />
+     <Compile Include="Assets\Code\BombBallDestroyWall.cs" />
+     <Compile Include="Assets\Code\BombButtonActive.cs" />
+     <Compile Include="Assets\Code\CameraBlock.cs" />
+     <Compile Include="Assets\Code\CameraMotor.cs" />
+     <Compile Include="Assets\Code\ChooseController.cs" />
+     <Compile Include="Assets\Code\FirstBallPlay.cs" />
+     <Compile Include="Assets\Code\FpsShow.cs" />
+     <Compile Include="Assets\Code\FreeCamera.cs" />
+     <Compile Include="Assets\Code\HomeBasildi.cs" />
+     <Compile Include="Assets\Code\InfoCanvasScript.cs" />
+     <Compile Include="Assets\Code\LoadingBarScript.cs" />
+     <Compile Include="Assets\Code\LoadingScreen.cs" />
+     <Compile Include="Assets\Code\Motor.cs" />
+     <Compile Include="Assets\Code\OnlyCameraFollow.cs" />
+     <Compile Include="Assets\Code\PauseManager.cs" />
+     <Compile Include="Assets\Code\PipeRotation.cs" />
+     <Compile Include="Assets\Code\Platformpad.cs" />
+     <Compile Include="Assets\Code\PuzzleButonActive.cs" />
+     <Compile Include="Assets\Code\PuzzleCanvas.cs" />
+     <Compile Include="Assets\Code\ScrollRectSnap.cs" />
+     <Compile Include="Assets\Code\SoundIncrease.cs" />
+     <Compile Include="Assets\Code\Teleport.cs" />
+     <Compile Include="Assets\Code\TouchCamera.cs" />
+     <Compile Include="Assets\Code\VectorInt2.cs" />
+     <Compile Include="Assets\Code\VirtualJoystick.cs" />
+     <Compile Include="Assets\Code\pickUpSounds.cs" />
+     <Compile Include="Assets\Code\puzzle.cs" />
+     <Compile Include="Assets\Code\randomColorMovingPlatform.cs" />
+     <Compile Include="Assets\Code\sensor.cs" />
+     <Compile Include="Assets\Code\teleportOut.cs" />
+     <Compile Include="Assets\Code\teleport_in.cs" />
+     <Compile Include="Assets\Code\teleport_inOut.cs" />
+     <Compile Include="Assets\HyperLuminal\SlidingTilePuzzle\Scripts\ST_PuzzleDisplay.cs" />
+     <Compile Include="Assets\HyperLuminal\SlidingTilePuzzle\Scripts\ST_PuzzleTile.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\CustomizablePowerUp.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\PowerUpManager.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\PowerUpRotation.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\ScaleParticles.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\TakeablePowerUp.cs" />
+     <Compile Include="Assets\Sprite\PowerUp\Scripts\Utility\Singleton.cs" />
+     <Compile Include="Assets\Sprite\bitirme GUI\renk3399cc.cs" />
+     <Compile Include="Assets\Teleportation Pad\CustomTeleporter.cs" />
+     <Compile Include="Assets\childParentScript.cs" />
+     <Compile Include="Assets\collisionEnterScript.cs" />
+     <None Include="Assets\Teleportation Pad\README.txt" />
+     <None Include="Assets\Sprite\Skybox\ulukai\readme.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

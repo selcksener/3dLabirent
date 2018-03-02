@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: b82083be53b047c46a0e1dc4faf52822
+timeCreated: 1477663895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bush
+    100002: fence_part_1
+    100004: fence_part_2
+    100006: fence_part_3
+    100008: //RootNode
+    100010: map
+    100012: platform_end
+    100014: platform_end_2
+    100016: platform_middle
+    100018: rock_1
+    100020: rock_2
+    100022: stone_block_2x2_1
+    100024: stone_block_2x2_2
+    100026: stone_block_2x4_1
+    100028: stone_block_2x4_2
+    100030: terrain
+    400000: bush
+    400002: fence_part_1
+    400004: fence_part_2
+    400006: fence_part_3
+    400008: //RootNode
+    400010: map
+    400012: platform_end
+    400014: platform_end_2
+    400016: platform_middle
+    400018: rock_1
+    400020: rock_2
+    400022: stone_block_2x2_1
+    400024: stone_block_2x2_2
+    400026: stone_block_2x4_1
+    400028: stone_block_2x4_2
+    400030: terrain
+    2300000: bush
+    2300002: fence_part_1
+    2300004: fence_part_2
+    2300006: fence_part_3
+    2300008: map
+    2300010: platform_end
+    2300012: platform_end_2
+    2300014: platform_middle
+    2300016: rock_1
+    2300018: rock_2
+    2300020: stone_block_2x2_1
+    2300022: stone_block_2x2_2
+    2300024: stone_block_2x4_1
+    2300026: stone_block_2x4_2
+    2300028: terrain
+    3300000: bush
+    3300002: fence_part_1
+    3300004: fence_part_2
+    3300006: fence_part_3
+    3300008: map
+    3300010: platform_end
+    3300012: platform_end_2
+    3300014: platform_middle
+    3300016: rock_1
+    3300018: rock_2
+    3300020: stone_block_2x2_1
+    3300022: stone_block_2x2_2
+    3300024: stone_block_2x4_1
+    3300026: stone_block_2x4_2
+    3300028: terrain
+    4300000: stone_block_2x4_2
+    4300002: platform_end_2
+    4300004: platform_middle
+    4300006: rock_1
+    4300008: rock_2
+    4300010: bush
+    4300012: stone_block_2x2_2
+    4300014: stone_block_2x2_1
+    4300016: stone_block_2x4_1
+    4300018: terrain
+    4300020: platform_end
+    4300022: fence_part_3
+    4300024: fence_part_1
+    4300026: fence_part_2
+    4300028: map
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

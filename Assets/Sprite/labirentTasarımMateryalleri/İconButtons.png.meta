@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 5b8193cef3757ad4ea73f18197d27364
+timeCreated: 1478468958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u0130conButtons_0"
+    21300002: "\u0130conButtons_1"
+    21300004: "\u0130conButtons_2"
+    21300006: "\u0130conButtons_3"
+    21300008: "\u0130conButtons_4"
+    21300010: "\u0130conButtons_5"
+    21300012: "\u0130conButtons_6"
+    21300014: "\u0130conButtons_7"
+    21300016: "\u0130conButtons_8"
+    21300018: "\u0130conButtons_9"
+    21300020: "\u0130conButtons_10"
+    21300022: "\u0130conButtons_11"
+    21300024: "\u0130conButtons_12"
+    21300026: "\u0130conButtons_13"
+    21300028: "\u0130conButtons_14"
+    21300030: "\u0130conButtons_15"
+    21300032: "\u0130conButtons_16"
+    21300034: "\u0130conButtons_17"
+    21300036: "\u0130conButtons_18"
+    21300038: "\u0130conButtons_19"
+    21300040: "\u0130conButtons_20"
+    21300042: "\u0130conButtons_21"
+    21300044: "\u0130conButtons_22"
+    21300046: "\u0130conButtons_23"
+    21300048: "\u0130conButtons_24"
+    21300050: "\u0130conButtons_25"
+    21300052: "\u0130conButtons_26"
+    21300054: "\u0130conButtons_27"
+    21300056: "\u0130conButtons_28"
+    21300058: "\u0130conButtons_29"
+    21300060: "\u0130conButtons_30"
+    21300062: "\u0130conButtons_31"
+    21300064: "\u0130conButtons_32"
+    21300066: "\u0130conButtons_33"
+    21300068: "\u0130conButtons_34"
+    21300070: "\u0130conButtons_35"
+    21300072: "\u0130conButtons_36"
+    21300074: "\u0130conButtons_37"
+    21300076: "\u0130conButtons_38"
+    21300078: "\u0130conButtons_39"
+    21300080: "\u0130conButtons_40"
+    21300082: "\u0130conButtons_41"
+    21300084: "\u0130conButtons_42"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u0130conButtons_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_1"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 367
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_2"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 367
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_3"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 367
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_4"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 367
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_5"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 378
+        width: 131
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 27.5}
+        - {x: -65.5, y: -23.5}
+        - {x: -57.5, y: -27.5}
+        - {x: 65.5, y: -27.5}
+        - {x: 65.5, y: 27.5}
+    - name: "\u0130conButtons_6"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 378
+        width: 134
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 27.5}
+        - {x: -67, y: 20.5}
+        - {x: -67, y: -27.5}
+        - {x: 65, y: -27.5}
+        - {x: 67, y: -26.5}
+        - {x: 67, y: 24.5}
+        - {x: 66, y: 27.5}
+    - name: "\u0130conButtons_7"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 378
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 27.5}
+        - {x: -65, y: 17.5}
+        - {x: -65, y: -18.5}
+        - {x: -55, y: -27.5}
+        - {x: 54, y: -27.5}
+        - {x: 65, y: -19.5}
+        - {x: 65, y: 17.5}
+        - {x: 56, y: 27.5}
+    - name: "\u0130conButtons_8"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_9"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 273
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_10"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 273
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_11"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 273
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_12"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 273
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 33}
+        - {x: -31.5, y: 25}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 31.5, y: -27}
+        - {x: 31.5, y: 24}
+        - {x: 24.5, y: 33}
+    - name: "\u0130conButtons_13"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 286
+        width: 131
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 27.5}
+        - {x: -65.5, y: -23.5}
+        - {x: -57.5, y: -27.5}
+        - {x: 65.5, y: -27.5}
+        - {x: 65.5, y: 27.5}
+    - name: "\u0130conButtons_14"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 286
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 27.5}
+        - {x: -68.5, y: 12.5}
+        - {x: -68.5, y: -22.5}
+        - {x: -61.5, y: -27.5}
+        - {x: 68.5, y: -27.5}
+        - {x: 68.5, y: 27.5}
+    - name: "\u0130conButtons_15"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 287
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 27.5}
+        - {x: -65, y: 17.5}
+        - {x: -65, y: -18.5}
+        - {x: -55, y: -27.5}
+        - {x: 54, y: -27.5}
+        - {x: 65, y: -19.5}
+        - {x: 65, y: 17.5}
+        - {x: 56, y: 27.5}
+    - name: "\u0130conButtons_16"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+        - {x: 21.5, y: 18.5}
+        - {x: 18.5, y: 22.5}
+    - name: "\u0130conButtons_17"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 204
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -20}
+        - {x: -18.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: "\u0130conButtons_18"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 204
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -20}
+        - {x: -18.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: "\u0130conButtons_19"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 203
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+        - {x: 21.5, y: 18.5}
+        - {x: 18.5, y: 22.5}
+    - name: "\u0130conButtons_20"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 204
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: 21.5}
+    - name: "\u0130conButtons_21"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 208
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 14.5, y: 18.5}
+    - name: "\u0130conButtons_22"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 208
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 14.5, y: 18.5}
+    - name: "\u0130conButtons_23"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 208
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 14.5, y: 18.5}
+    - name: "\u0130conButtons_24"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 208
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 17.5}
+    - name: "\u0130conButtons_25"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 205
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 13.5, y: -20.5}
+        - {x: 20.5, y: -13.5}
+        - {x: 20.5, y: 13.5}
+        - {x: 13.5, y: 20.5}
+    - name: "\u0130conButtons_26"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 204
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: "\u0130conButtons_27"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 204
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: "\u0130conButtons_28"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 204
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: "\u0130conButtons_29"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 205
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -17.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 18.5}
+    - name: "\u0130conButtons_30"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_31"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_32"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_33"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_34"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_35"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_36"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_37"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_38"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_39"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_40"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_41"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    - name: "\u0130conButtons_42"
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25}
+        - {x: -25, y: 14}
+        - {x: -25, y: -17}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 17}
+        - {x: 14, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

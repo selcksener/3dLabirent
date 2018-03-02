@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 1d0ff9409d871d04a914b972d9f3855b
+timeCreated: 1476391877
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: joystick_0
+    21300002: joystick_1
+    21300004: joystick_2
+    21300006: joystick_3
+    21300008: joystick_4
+    21300010: joystick_5
+    21300012: joystick_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: joystick_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 393
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 273
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 273
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 141
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 141
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 57.5}
+        - {x: -57.5, y: 37.5}
+        - {x: -57.5, y: -44.5}
+        - {x: -39.5, y: -57.5}
+        - {x: 29.5, y: -57.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 57.5, y: 34.5}
+        - {x: 37.5, y: 57.5}
+    - name: joystick_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 38}
+        - {x: -38, y: 22}
+        - {x: -38, y: -25}
+        - {x: -27, y: -38}
+        - {x: 34, y: -38}
+        - {x: 38, y: -27}
+        - {x: 38, y: 31}
+        - {x: 33, y: 38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
